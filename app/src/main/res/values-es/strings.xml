@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="settings">Ajustes</string>
+    <string name="ai_provider">Proveedor de IA</string>
+    <string name="add_custom_provider">Añadir Proveedor Personalizado</string>
+    <string name="model">Modelo</string>
+    <string name="api_key">Clave API</string>
+    <string name="get_api_key">Obtener Clave API para %s</string>
+    <string name="system_prompt">Aviso del Sistema</string>
+    <string name="temperature">Temperatura: %.1f</string>
+    <string name="precise">Preciso (0.0)</string>
+    <string name="creative">Creativo (2.0)</string>
+    <string name="appearance">Apariencia</string>
+    <string name="theme_mode">Modo de Tema</string>
+    <string name="auto">Auto</string>
+    <string name="dark">Oscuro</string>
+    <string name="light">Claro</string>
+    <string name="color_palette">Paleta de Colores</string>
+    <string name="neon">Neón</string>
+    <string name="ocean">Océano</string>
+    <string name="forest">Bosque</string>
+    <string name="sunset">Atardecer</string>
+    <string name="chat_font_size">Tamaño de Fuente del Chat</string>
+    <string name="small">Pequeño</string>
+    <string name="medium">Medio</string>
+    <string name="large">Grande</string>
+    <string name="agent_memory">Memoria del Agente</string>
+    <string name="long_term_memory">Memoria a Largo Plazo</string>
+    <string name="allow_ai_remember">Permitir que la IA te recuerde en diferentes sesiones</string>
+    <string name="clear_all_memories">Borrar Todas las Memorias</string>
+    <string name="memory_cleared">Memoria borrada</string>
+    <string name="language">Idioma</string>
+    <string name="system_default">Por defecto del sistema</string>
+    <string name="save_settings">Guardar Ajustes</string>
+    <string name="contact_support">Contacto y Soporte</string>
+    <string name="donate">Donar</string>
+    <string name="contact_developer">Contactar al Desarrollador</string>
+    <string name="report_bug">Reportar un Error</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Añadir</string>
+    
+    <string name="type_a_message">Escribe un mensaje...</string>
+    <string name="copied">¡Copiado!</string>
+    <string name="no_response">No se recibió respuesta.</string>
+    <string name="using_tools">🔧 Usando: %s</string>
+    <string name="running_tool">⚙️ Ejecutando: %s...</string>
+    <string name="processing_results">🤔 Procesando resultados...</string>
+    <string name="loop_limit_reached">⚠️ Límite del bucle de herramientas alcanzado.</string>
+    <string name="error">❌ Error: %s</string>
+    
+    <string name="ai_agent_ready">Agente IA Listo</string>
+    <string name="agent_description">Puedo chatear, gestionar archivos, abrir apps y recordarte</string>
+    <string name="skill_files">📁 Archivos</string>
+    <string name="skill_apps">📱 Apps</string>
+    <string name="skill_search">🔍 Buscar</string>
+    <string name="skill_notes">📝 Notas</string>
+    <string name="skill_memory">🧠 Memoria</string>
+
+    <string name="provider_name">Nombre del Proveedor</string>
+    <string name="base_url">URL Base</string>
+    <string name="api_key_url">URL de la Clave API (opcional)</string>
+    <string name="models_comma">Modelos (separados por comas)</string>
+    <string name="endpoint_url">URL del Endpoint</string>
+</resources>

@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="ai_provider">ผู้ให้บริการ AI</string>
+    <string name="add_custom_provider">เพิ่มผู้ให้บริการด้วยตนเอง</string>
+    <string name="model">โมเดล</string>
+    <string name="api_key">คีย์ API</string>
+    <string name="get_api_key">รับคีย์ API สำหรับ %s</string>
+    <string name="system_prompt">คำสั่งระบบ (System Prompt)</string>
+    <string name="temperature">ระดับความแม่นยำ/สร้างสรรค์: %.1f</string>
+    <string name="precise">แม่นยำ (0.0)</string>
+    <string name="creative">สร้างสรรค์ (2.0)</string>
+    <string name="appearance">รูปลักษณ์</string>
+    <string name="theme_mode">โหมดธีม</string>
+    <string name="auto">อัตโนมัติ</string>
+    <string name="dark">มืด</string>
+    <string name="light">สว่าง</string>
+    <string name="color_palette">ชุดสี (Palette)</string>
+    <string name="neon">นีออน</string>
+    <string name="ocean">มหาสมุทร</string>
+    <string name="forest">ป่าไม้</string>
+    <string name="sunset">พระอาทิตย์ตก</string>
+    <string name="chat_font_size">ขนาดตัวอักษรแชต</string>
+    <string name="small">เล็ก</string>
+    <string name="medium">กลาง</string>
+    <string name="large">ใหญ่</string>
+    <string name="agent_memory">ความทรงจำของ AI</string>
+    <string name="long_term_memory">ความทรงจำระยะยาว</string>
+    <string name="allow_ai_remember">อนุญาตให้ AI จดจำคุณข้ามเซสชัน</string>
+    <string name="clear_all_memories">ล้างความทรงจำทั้งหมด</string>
+    <string name="memory_cleared">ล้างความทรงจำแล้ว</string>
+    <string name="language">ภาษา (Language)</string>
+    <string name="system_default">ตามระบบเครื่อง</string>
+    <string name="save_settings">บันทึกการตั้งค่า</string>
+    <string name="contact_support">ติดต่อและสนับสนุน</string>
+    <string name="donate">สนับสนุนผู้พัฒนา (Donate)</string>
+    <string name="contact_developer">ติดต่อผู้พัฒนา</string>
+    <string name="report_bug">รายงานปัญหา/บัค</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="add">เพิ่ม</string>
+    
+    <string name="type_a_message">พิมพ์ข้อความ...</string>
+    <string name="copied">คัดลอกแล้ว!</string>
+    <string name="no_response">ไม่ได้รับการตอบกลับ</string>
+    <string name="using_tools">🔧 กำลังใช้: %s</string>
+    <string name="running_tool">⚙️ กำลังทำงาน: %s...</string>
+    <string name="processing_results">🤔 กำลังประมวลผลลัพธ์...</string>
+    <string name="loop_limit_reached">⚠️ ถึงขีดจำกัดจำนวนรอบการใช้เครื่องมือแล้ว</string>
+    <string name="error">❌ ข้อผิดพลาด: %s</string>
+    
+    <string name="ai_agent_ready">AI Agent พร้อมใช้งาน</string>
+    <string name="agent_description">ฉันสามารถพูดคุย, จัดการไฟล์, เปิดแอป, และจดจำเรื่องราวของคุณได้</string>
+    <string name="skill_files">📁 ไฟล์</string>
+    <string name="skill_apps">📱 แอป</string>
+    <string name="skill_search">🔍 ค้นหา</string>
+    <string name="skill_notes">📝 โน้ต</string>
+    <string name="skill_memory">🧠 ความจำ</string>
+
+    <string name="provider_name">ชื่อผู้ให้บริการ</string>
+    <string name="base_url">Base URL (ลิงก์ปลายทาง)</string>
+    <string name="api_key_url">ลิงก์รับ API Key (ตัวเลือก)</string>
+    <string name="models_comma">ชื่อโมเดล (คั่นด้วยลูกน้ำ)</string>
+    <string name="endpoint_url">Endpoint URL</string>
+</resources>

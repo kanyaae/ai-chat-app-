@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="settings">设置</string>
+    <string name="ai_provider">AI 提供商</string>
+    <string name="add_custom_provider">添加自定义提供商</string>
+    <string name="model">模型</string>
+    <string name="api_key">API 密钥</string>
+    <string name="get_api_key">获取 %s 的 API 密钥</string>
+    <string name="system_prompt">系统提示词</string>
+    <string name="temperature">温度: %.1f</string>
+    <string name="precise">精确 (0.0)</string>
+    <string name="creative">创意 (2.0)</string>
+    <string name="appearance">外观</string>
+    <string name="theme_mode">主题模式</string>
+    <string name="auto">自动</string>
+    <string name="dark">深色</string>
+    <string name="light">浅色</string>
+    <string name="color_palette">调色板</string>
+    <string name="neon">霓虹</string>
+    <string name="ocean">海洋</string>
+    <string name="forest">森林</string>
+    <string name="sunset">日落</string>
+    <string name="chat_font_size">聊天字体大小</string>
+    <string name="small">小</string>
+    <string name="medium">中</string>
+    <string name="large">大</string>
+    <string name="agent_memory">代理记忆</string>
+    <string name="long_term_memory">长期记忆</string>
+    <string name="allow_ai_remember">允许 AI 跨会话记住您</string>
+    <string name="clear_all_memories">清除所有记忆</string>
+    <string name="memory_cleared">记忆已清除</string>
+    <string name="language">语言</string>
+    <string name="system_default">系统默认</string>
+    <string name="save_settings">保存设置</string>
+    <string name="contact_support">联系与支持</string>
+    <string name="donate">捐赠 (Donate)</string>
+    <string name="contact_developer">联系开发者</string>
+    <string name="report_bug">报告问题</string>
+    <string name="cancel">取消</string>
+    <string name="add">添加</string>
+    
+    <string name="type_a_message">输入消息...</string>
+    <string name="copied">已复制！</string>
+    <string name="no_response">未收到回复。</string>
+    <string name="using_tools">🔧 正在使用: %s</string>
+    <string name="running_tool">⚙️ 正在运行: %s...</string>
+    <string name="processing_results">🤔 正在处理结果...</string>
+    <string name="loop_limit_reached">⚠️ 达到工具调用循环限制。</string>
+    <string name="error">❌ 错误: %s</string>
+    
+    <string name="ai_agent_ready">AI 代理已就绪</string>
+    <string name="agent_description">我可以聊天、管理文件、打开应用并记住您</string>
+    <string name="skill_files">📁 文件</string>
+    <string name="skill_apps">📱 应用</string>
+    <string name="skill_search">🔍 搜索</string>
+    <string name="skill_notes">📝 笔记</string>
+    <string name="skill_memory">🧠 记忆</string>
+
+    <string name="provider_name">提供商名称</string>
+    <string name="base_url">基础 URL</string>
+    <string name="api_key_url">API 密钥 URL (可选)</string>
+    <string name="models_comma">模型 (逗号分隔)</string>
+    <string name="endpoint_url">端点 URL</string>
+</resources>

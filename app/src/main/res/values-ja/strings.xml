@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="settings">設定</string>
+    <string name="ai_provider">AIプロバイダー</string>
+    <string name="add_custom_provider">カスタムプロバイダーを追加</string>
+    <string name="model">モデル</string>
+    <string name="api_key">APIキー</string>
+    <string name="get_api_key">%s のAPIキーを取得</string>
+    <string name="system_prompt">システムプロンプト</string>
+    <string name="temperature">温度: %.1f</string>
+    <string name="precise">正確 (0.0)</string>
+    <string name="creative">創造的 (2.0)</string>
+    <string name="appearance">外観</string>
+    <string name="theme_mode">テーマモード</string>
+    <string name="auto">自動</string>
+    <string name="dark">ダーク</string>
+    <string name="light">ライト</string>
+    <string name="color_palette">カラーパレット</string>
+    <string name="neon">ネオン</string>
+    <string name="ocean">オーシャン</string>
+    <string name="forest">フォレスト</string>
+    <string name="sunset">サンセット</string>
+    <string name="chat_font_size">チャットのフォントサイズ</string>
+    <string name="small">小</string>
+    <string name="medium">中</string>
+    <string name="large">大</string>
+    <string name="agent_memory">エージェントメモリ</string>
+    <string name="long_term_memory">長期記憶</string>
+    <string name="allow_ai_remember">セッション間でAIがあなたを記憶するのを許可する</string>
+    <string name="clear_all_memories">すべての記憶を消去</string>
+    <string name="memory_cleared">記憶が消去されました</string>
+    <string name="language">言語</string>
+    <string name="system_default">システムデフォルト</string>
+    <string name="save_settings">設定を保存</string>
+    <string name="contact_support">お問い合わせとサポート</string>
+    <string name="donate">寄付</string>
+    <string name="contact_developer">開発者に連絡</string>
+    <string name="report_bug">バグを報告</string>
+    <string name="cancel">キャンセル</string>
+    <string name="add">追加</string>
+    
+    <string name="type_a_message">メッセージを入力...</string>
+    <string name="copied">コピーしました！</string>
+    <string name="no_response">応答がありません。</string>
+    <string name="using_tools">🔧 使用中: %s</string>
+    <string name="running_tool">⚙️ 実行中: %s...</string>
+    <string name="processing_results">🤔 結果を処理中...</string>
+    <string name="loop_limit_reached">⚠️ ツール呼び出しのループ制限に達しました。</string>
+    <string name="error">❌ エラー: %s</string>
+    
+    <string name="ai_agent_ready">AIエージェントの準備完了</string>
+    <string name="agent_description">チャット、ファイル管理、アプリの起動、そしてあなたのことを記憶できます</string>
+    <string name="skill_files">📁 ファイル</string>
+    <string name="skill_apps">📱 アプリ</string>
+    <string name="skill_search">🔍 検索</string>
+    <string name="skill_notes">📝 メモ</string>
+    <string name="skill_memory">🧠 記憶</string>
+
+    <string name="provider_name">プロバイダー名</string>
+    <string name="base_url">ベースURL</string>
+    <string name="api_key_url">APIキーのURL (任意)</string>
+    <string name="models_comma">モデル (カンマ区切り)</string>
+    <string name="endpoint_url">エンドポイントURL</string>
+</resources>
